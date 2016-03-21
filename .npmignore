@@ -1,10 +1,11 @@
 demos/
 docs/
-lib/link/
 tests/
 node_modules
 npm-debug.log
 .DS_Store
+lib/link/Demos
+lib/link/Tests
 lib/ast.js/Demos
 lib/slick/SlickSpec
 lib/slick/speed
